@@ -5,12 +5,6 @@
 [![HitCount](https://hits.dwyl.com/LeandroTrombini/LeandroTrombini/meu-projeto-git.svg)](https://hits.dwyl.com/LeandroTrombini/LeandroTrombini/meu-projeto-git)
 
 Adicionando algums linhas.....
-## Contruído com:
-
-* [Next.js](https://next.js.org/) -The React Framework.
-* [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
-* [Figma](https://figma.com/) - Online prototyping tool.
-* [PurgeCss](https://purgecss.com/) - Remove unused CSS.
 
 ## Author:
 
